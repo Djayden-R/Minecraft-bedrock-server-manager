@@ -1,2 +1,2 @@
 # Minecraft-server-backup
-A little project I am working on to make my Minecraft server automatically back up to Google Drive and an external HDD
+I will begin migrating my files from Google Drive to this repository soon
